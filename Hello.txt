@@ -1,1 +1,2 @@
-Hallo, ich bin itzzaura
+Hallo, ich bin itzzaura.
+Notiz: Ich arbeite gerade an meiner ersten Git-Aufgabe. 
